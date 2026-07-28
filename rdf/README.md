@@ -7,6 +7,7 @@ Use this folder for RDF graph examples, SPARQL assets, ontology files, and seman
 | Example | What It Covers |
 | --- | --- |
 | [`examples/simple-foaf/`](examples/simple-foaf/) | Small RDF/Turtle dataset and SPARQL query starters for a future Oracle RDF walkthrough. |
+| [`examples/university-ontology/`](examples/university-ontology/) | Runnable SQL example that loads a university ontology and data, then queries OWL 2 RL inferences. |
 
 Add a README in each demo folder with setup steps, prerequisites, and expected outputs.
 
